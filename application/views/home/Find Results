@@ -1,0 +1,24 @@
+Searching 681 files for "BBT Inventory"
+
+F:\xampp\htdocs\inventory_system\application\views\common\css_link.php:
+    3      <head>
+    4          <meta charset="UTF-8">
+    5:         <title>Biodata information</title>
+    6          <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    7          <!-- bootstrap 3.0.2 -->
+
+F:\xampp\htdocs\inventory_system\application\views\common\header.php:
+    6              <a href="index.html" class="logo">
+    7                  <!-- Add the class icon to your logo image or logo icon to add the margining -->
+    8:                 Biodata info
+    9              </a>
+   10              <!-- Header Navbar: style can be found in header.less -->
+
+F:\xampp\htdocs\inventory_system\application\views\home\index.php:
+   12      
+   13      
+   14:     <h1>Welcome biodata information system and Management !</h1>
+   15      
+   16      
+
+3 matches across 3 files
